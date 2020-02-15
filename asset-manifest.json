@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Simpe-React-App/static/css/main.ae4c209b.chunk.css",
+    "main.js": "/Simpe-React-App/static/js/main.6934ebb0.chunk.js",
+    "main.js.map": "/Simpe-React-App/static/js/main.6934ebb0.chunk.js.map",
+    "runtime-main.js": "/Simpe-React-App/static/js/runtime-main.6ce94e23.js",
+    "runtime-main.js.map": "/Simpe-React-App/static/js/runtime-main.6ce94e23.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Simpe-React-App/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.87cb75fa.chunk.js": "/Simpe-React-App/static/js/2.87cb75fa.chunk.js",
+    "static/js/2.87cb75fa.chunk.js.map": "/Simpe-React-App/static/js/2.87cb75fa.chunk.js.map",
+    "index.html": "/Simpe-React-App/index.html",
+    "precache-manifest.fd3bc76ecd1027a0dd4242aac8dd3223.js": "/Simpe-React-App/precache-manifest.fd3bc76ecd1027a0dd4242aac8dd3223.js",
+    "service-worker.js": "/Simpe-React-App/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Simpe-React-App/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.ae4c209b.chunk.css.map": "/Simpe-React-App/static/css/main.ae4c209b.chunk.css.map",
+    "static/js/2.87cb75fa.chunk.js.LICENSE.txt": "/Simpe-React-App/static/js/2.87cb75fa.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Simpe-React-App/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ce94e23.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.87cb75fa.chunk.js",
+    "static/css/main.ae4c209b.chunk.css",
+    "static/js/main.6934ebb0.chunk.js"
+  ]
+}
