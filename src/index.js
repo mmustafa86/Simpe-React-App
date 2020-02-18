@@ -1,13 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-
+import {procisder} from 'react-redux'
+import{creatStore} from 'redux'
 import App from './containers/App'
 import * as serviceWorker from './serviceWorker';
 
 import 'tachyons'
 
 //
+
+const store = creatStore(rootReducer)
 ReactDOM.render(
     <App />, document.getElementById('root'));
 
